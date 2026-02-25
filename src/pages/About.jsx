@@ -16,17 +16,26 @@ function About() {
             </h1>
             <p className="mb-3 text-muted-foreground">
               Deep Rooted Software Training & Development Services was founded
-              with a simple mission: to bridge the gap between aspiring IT
-              professionals and their dream careers. We saw a need for
-              high-quality, practical, and affordable online education that
-              directly addresses the skills employers are looking for.
+              with a clear mission: to bridge the gap between aspiring IT
+              professionals and their dream careers. We recognized the growing
+              need for high-quality, practical, and affordable online education
+              that focuses on the real-world skills employers actively seek. Our
+              team of experienced industry professionals and passionate
+              educators is committed to delivering engaging, career-focused
+              programs built on the principle of learning by doing. Through
+              real-world projects, hands-on exercises, and practical
+              implementation, we ensure our students graduate with job-ready
+              skills and the confidence to succeed in the tech industry.
             </p>
             <p className="text-muted-foreground">
-              Our team of industry experts and passionate educators is dedicated
-              to creating courses that are not only informative but also
-              engaging and career-focused. We believe in learning by doing, and
-              our curriculum is packed with real-world projects and hands-on
-              exercises.
+              Beyond training, we actively support individuals and local
+              businesses in taking their ideas online. We design and develop
+              professional websites, build scalable web applications, and create
+              full-featured e-commerce platforms that help businesses grow in
+              the digital space. This approach not only empowers entrepreneurs
+              with technology-driven solutions but also provides our students
+              with valuable real-time project exposure, creating a meaningful
+              impact for both learners and the business community.
             </p>
           </section>
         </div>
